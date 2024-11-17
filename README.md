@@ -75,7 +75,7 @@ npm i
 .env
 ```
 
-### 4. Move back to StudyNotion directory
+### 4. Move back to EduVerse directory
 
 ```
 cd ..
