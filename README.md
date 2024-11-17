@@ -133,6 +133,20 @@ npm start
 
 &nbsp;
 
+## Contributor
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Neeldesaind/">
+        <img src="https://avatars.githubusercontent.com/u/90563106?v=4https://avatars.githubusercontent.com/u/90563106?v=4" width="100px;" alt=""/>
+        <br />
+        <sub><b>Neel Desai</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## Contributing Guidelines
 
 - Report any issues using the GitHub issue tracker.
@@ -147,4 +161,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 For questions or feedback, contact Dhaval Chhayla at dhavalhchhayla@gmail.com.
 - Version - 1.0.0
 - License: DhavalChhaylaOfficial
-- Author: Dhaval Chhayla 
+- Author: Dhaval Chhayla
+
+
+
