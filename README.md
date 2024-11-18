@@ -19,9 +19,7 @@ transition into roles as instructors or interns.
 
 ## App Video
 
-https://github.com/user-attachments/assets/c2ca36fa-c9f4-4bb8-8bf6-d68da4dbad31
-
-
+https://github.com/user-attachments/assets/49d60160-1dae-4081-b914-8641950dfe84
 
 ## Tech Stack 💻🔧 
 
