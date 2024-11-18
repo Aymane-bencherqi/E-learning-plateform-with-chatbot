@@ -17,6 +17,12 @@ interactive tools like a code editor. The platform seeks to simplify course enro
 streamline assessments and certifications, and provide pathways for students to 
 transition into roles as instructors or interns.
 
+## App Video
+
+https://github.com/user-attachments/assets/c2ca36fa-c9f4-4bb8-8bf6-d68da4dbad31
+
+
+
 ## Tech Stack 💻🔧 
 
 ### Frontend 🎨 : 
